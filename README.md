@@ -5,8 +5,6 @@
 
 [![JoEdwrd's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoEdwrd&layout=compact&theme=dracula)](https://github.com/JoEdwrd/github-readme-stats)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/JoEdwrd/JoEdwrd)
-
 ## Keep in touch
 [LinkedIn](https://www.linkedin.com/in/joel-edward-al/) • [Instagram](https://www.instagram.com/jedwarrd/)
 

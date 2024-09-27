@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @JoEdwrd
-- 👀 I’m interested in Web Developer, AI, Machine Learning!
-- 🌱 I’m currently learning to be Fullstack Web developer
-- 💞️ I’m looking to collaborate on Fullstack web application
-- 📫 Reach me on twitter @sayajo3
-
 # JOEL EDWARD ARUNG LA'BY
 ## Student in PPTI BCA Scholarship, Associated to BINUS University
 # Statistics
